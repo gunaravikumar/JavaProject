@@ -28,6 +28,6 @@ public class ReverseString
    {
 	ReverseString obj = new ReverseString();
 	obj.reverseWordInMyString("Welcome to BeginnersBook");
-	obj.reverseWordInMyString("This is an easy Java Program");
+	obj.reverseWordInMyString("Guna Ravikumar");
    }
 }
