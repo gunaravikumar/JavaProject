@@ -1,4 +1,4 @@
-public class ReverseString
+class ReverseString
 {
    public void reverseWordInMyString(String str)
    {
